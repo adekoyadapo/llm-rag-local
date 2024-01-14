@@ -29,7 +29,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-1. Download Model from [Huggingface llama](https://cdn-lfs.huggingface.co/repos/30/e3/30e3aca7233f7337633262ff6d59dd98559ecd8982e7419b39752c8d0daae1ca/3bfdde943555c78294626a6ccd40184162d066d39774bd2c98dae24943d32cc3?response-content-disposition=attachment%3B+filename*%3DUTF-8%27%27llama-2-7b-chat.ggmlv3.q8_0.bin%3B+filename%3D%22llama-2-7b-chat.ggmlv3.q8_0.bin%22%3B&response-content-type=application%2Foctet-stream&Expires=1705429180&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcwNTQyOTE4MH19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5odWdnaW5nZmFjZS5jby9yZXBvcy8zMC9lMy8zMGUzYWNhNzIzM2Y3MzM3NjMzMjYyZmY2ZDU5ZGQ5ODU1OWVjZDg5ODJlNzQxOWIzOTc1MmM4ZDBkYWFlMWNhLzNiZmRkZTk0MzU1NWM3ODI5NDYyNmE2Y2NkNDAxODQxNjJkMDY2ZDM5Nzc0YmQyYzk4ZGFlMjQ5NDNkMzJjYzM%7EcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj0qJnJlc3BvbnNlLWNvbnRlbnQtdHlwZT0qIn1dfQ__&Signature=YwoRKJd8YkiR5cUitrPiLc2OA45RoOtWUgrz7Ks8N6rs5t5agY-kzfqRayBPTGW2EyGV-dEFeXoOYQgdj7J2BQf5GasmQoIumL5kMpi0eJpG7lP38mkGefmgEAus8Bcan07xI6QFIODYtE0I1y4-J8ZcYxUfFRtjAEbXJAFR2kr2anYMUe4MESc5R7xHp6GoHud%7EkCcJ66ddZUyQ5aCYS2CoR3fZUMtQzOlBhexYv10PJPPdV1zjvr9aRQFsqoBNFbdCZNifVR6VP49Hh-zPdckOlXosc9b03LpQhTNTAH8XNvwfyFo8EgyrtQb3xTSdcfSUmycYnVGkIqg2Cu2eVQ__&Key-Pair-Id=KVTP0A1DKRTAX) to a directory locally and Set up your model directory by providing the model name with the directory in the `model_path`.
+1. Download Model from [Huggingface llama](https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/resolve/main/llama-2-7b-chat.ggmlv3.q8_0.bin) to a directory locally and Set up your model directory by providing the model name with the directory in the `model_path`.
 
    ```python
    def load_model(
