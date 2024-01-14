@@ -1,0 +1,10 @@
+langchain 
+chromadb
+streamlit
+pypdf
+fastembed
+gpt4all
+torch
+transformers
+sentence_transformers
+ctransformers

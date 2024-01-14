@@ -1,0 +1,60 @@
+**XYZ-YY Company Knowledge Base: Troubleshooting Network Connectivity Issues**
+
+---
+
+**Issue: Unable to Connect to the Network**
+
+**Symptoms:**
+- Users are reporting an inability to connect to the company network.
+- Error messages such as "No Internet Connection" or "Limited Connectivity" are displayed.
+
+**Possible Causes:**
+1. **Network Configuration Issues:**
+   - Verify that the device has the correct network settings (IP address, subnet mask, gateway).
+   - Check if the device is configured to obtain an IP address automatically (DHCP).
+
+2. **Hardware Problems:**
+   - Inspect physical connections (Ethernet cables, Wi-Fi adapters) for damage.
+   - Ensure that routers, switches, and other networking equipment are powered on and functioning.
+
+3. **Firewall or Antivirus Software:**
+   - Temporary disable firewall or antivirus software to check if they are blocking the network connection.
+
+4. **DNS Issues:**
+   - Check the DNS settings on the device. Use a public DNS server like Google DNS (8.8.8.8) to test.
+
+**Troubleshooting Steps:**
+
+1. **Check Physical Connections:**
+   - Ensure all cables are securely connected.
+   - If using Wi-Fi, ensure the device is within range of the router.
+
+2. **Restart Networking Equipment:**
+   - Power cycle routers, switches, and modems.
+   - Restart the device experiencing connectivity issues.
+
+3. **Verify Network Settings:**
+   - Check the IP configuration on the device.
+   - If using DHCP, ensure the router is assigning IP addresses correctly.
+
+4. **Disable Firewall/Antivirus:**
+   - Temporarily disable firewall or antivirus software.
+   - Check if the issue persists. If it resolves, reconfigure the software settings.
+
+5. **DNS Configuration:**
+   - Verify DNS settings on the device.
+   - Test with a different DNS server to rule out DNS issues.
+
+6. **Check for System Updates:**
+   - Ensure the operating system and network drivers are up-to-date.
+
+**Additional Resources:**
+- For detailed instructions on configuring network settings, refer to the user manual for your device.
+- Consult the IT department for assistance if the issue persists.
+
+**Contact Support:**
+If the problem persists after performing these troubleshooting steps, please contact XYZ-YY Support at [support@xyz-yy.com](mailto:support@xyz-yy.com) or call our 24/7 support hotline at +1-XXX-XXX-XXXX.
+
+---
+
+*Note: This is a fictional support documentation example for a company named XYZ-YY. Modify the details as needed for a specific context.*
